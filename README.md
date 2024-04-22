@@ -1,7 +1,7 @@
 Hello everyone, my name is Leon Lee and I come from China . Many Adobe icons may not look very professional, perhaps because developers do not have the cooperation of art or designers. Therefore, I have beautified some preview images of plugins and ICONs myself, hoping to also help other developers:
 
 - Free design: Logo, icon
-- No signature required: Leon Lee (Taoge)
+- No signature required: Leon Lee (涛哥)
 - No need to mention: My website www.bgteach.com
 - Email contact: @litao@bgetach.com
 
